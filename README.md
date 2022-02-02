@@ -1,2 +1,4 @@
 # quiz_game
-I want to use a dictionary or questions and answers alongside a asking question function
+I want to create a quiz game using:
+Dictionary for the questions and answers (key, value)
+
